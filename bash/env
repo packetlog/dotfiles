@@ -1,6 +1,7 @@
 
 
 # Set PATH, CDPATH, EDITOR, etc.
+# I can add much more later
 
 export PATH=$PATH:~/bin
 export EDITOR="/usr/bin/vi"
